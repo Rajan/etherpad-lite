@@ -14,7 +14,9 @@ html {
 }
 body,
 textarea {
-  font-family: Helvetica, Arial, sans-serif
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem !important;
+  line-height: : 2rem !important;
 }
 iframe {
   position: absolute
@@ -1321,5 +1323,3 @@ input[type=checkbox] {
 .hideControlsEditbar{
   display:none !important;
 }
-
-

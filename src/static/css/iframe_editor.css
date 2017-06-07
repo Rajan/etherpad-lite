@@ -31,9 +31,10 @@ body {
 body.grayedout { background-color: #eee !important }
 
 #innerdocbody {
-  font-size: 12px; /* overridden by body.style */
+  font-size: 12px; /* 12px overridden by body.style */
   font-family:Arial, sans-serif; /* overridden by body.style */
-  line-height: 16px; /* overridden by body.style */
+  line-height: 22px; /* 16px overridden by body.style */
+
   background-color: white;
   color: black;
 }
